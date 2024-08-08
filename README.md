@@ -56,10 +56,4 @@ The dataset used for this project is the [Credit Card Fraud Detection dataset](h
 - Explore more advanced algorithms like Random Forests or Gradient Boosting for potentially improved performance.
 - Implement techniques to handle class imbalance more effectively, such as Synthetic Minority Over-sampling Technique (SMOTE).
 
-## How to Run
 
-To replicate the results, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
